@@ -1,5 +1,5 @@
 # Mahfooz_Airline_Passenger_Referral_Prediction-
-!Image[](https://www.shutterstock.com/shutterstock/photos/262158371/display_1500/stock-vector-manage-plane-262158371.jpg)
+![Image](https://www.shutterstock.com/shutterstock/photos/262158371/display_1500/stock-vector-manage-plane-262158371.jpg)
 
 Data includes airline reviews from 2006 to 2019 for popular airlines around the world with multiple choice and free text questions. Data is scraped in Spring 2019. The main objective is to predict whether passengers will refer the airline to their friends.
 # Airline Passenger Referral Prediction
